@@ -1,0 +1,19 @@
+{
+  "name": "mc-eco-safety-test-project",
+  "version": "1.0.0",
+  "description": "test task for mc-eco-safety",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makmiko/mc-eco-safety-test-task.git"
+  },
+  "author": "Makar Kondratev <kondratiev.makar@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makmiko/mc-eco-safety-test-task/issues"
+  },
+  "homepage": "https://github.com/Makmiko/mc-eco-safety-test-task#readme"
+}
